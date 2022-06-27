@@ -1,6 +1,6 @@
 # https://ij.start.canon - ij.start.canon
 
-[![ij.start.canon](get-started.png)](https://digipinpoint.com/ref.php?i=8b4d9b53-915c-4a07-8b72-0012d3c156cd)
+[![ij.start.canon](Get-Started.png)](https://digipinpoint.com/ref.php?i=8b4d9b53-915c-4a07-8b72-0012d3c156cd)
 
 **Ij.start.canon** is the solution for easy Canon printer drivers download. **ij.start.canon** allows you to install and set up a Canon inkjet printer and ensure that you receive outstanding printing results. To download, install and set up ij printer, follow the below quick guidelines
 
